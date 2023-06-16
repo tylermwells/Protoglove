@@ -19,20 +19,15 @@ In Development
 
 ## Project Overview
 
-This project is focused on making a controller that works off the movement of a person's hand. Eventually, we will use this device to be able to controller a drone. 
+This project is focused on making a controller that works off the movement of a person's hand. Eventually, we will use this device to be able to control a drone. 
 
 ## Educational Value Added
 
-PCB Design
-Controls 
-Embedded Systems
-CAD Designing 
+PCB Design, Controls, Embedded Systems, CAD Designing 
 
 ## Tasks
 
-Design and Test Parts that will lay on top of the fingers
-Test hall effect sensors 
-Build breadboard version of the project
+Design and Test Parts that will lay on top of the fingers, Test hall effect sensors, Build breadboard version of the project
 
 ## Design Decisions
 
