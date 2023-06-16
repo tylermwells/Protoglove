@@ -23,7 +23,7 @@ This project is focused on making a controller that works off the movement of a 
 
 ## Educational Value Added
 
-PCB Design, Controls, Embedded Systems, CAD Designing 
+PCB Design, Controls, Embedded Systems, CAD Designing, Communications
 
 ## Tasks
 
@@ -31,7 +31,7 @@ Design and Test Parts that will lay on top of the fingers, Test hall effect sens
 
 ## Design Decisions
 
-<!-- Your Text Here. See Example above -->
+Wanting a compact way to sense the position of the fingers, without having to do a calibration upon starting the device. 
 
 ## Design Misc
 
@@ -51,7 +51,7 @@ Design and Test Parts that will lay on top of the fingers, Test hall effect sens
 
 ## Useful Links
 
-<!-- Your Text Here. See Example above -->
+Dissertation on 3 Dimensional Finger Motion: https://www.mdpi.com/1424-8220/20/3/756
 
 ## Log
 
